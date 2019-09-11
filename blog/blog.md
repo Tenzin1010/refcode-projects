@@ -26,3 +26,10 @@ Summarize what you’ve learned:
 What did you like about the articles and videos?
 What didn’t you like?
 Did anything seem surprising?
+
+
+### How to get motivated to start a project, what should it be, how to stick with it
+ - Build something you're familiar with and work on it
+ - Build something & do it over with other frame work, library, ex, Javascript, JQ, React, Node & React
+ - create short exercises on codepen 
+ - participate in gamification
