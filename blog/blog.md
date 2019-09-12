@@ -20,6 +20,7 @@ Did anything seem surprising?
 Week 2 -- in-class 
 - Compiled Markdown exercise to HTML
 - Create multiple Github pages and how to link to each other (using relative path ./blog)
+- the purpose of multiple pages on the blog folder is to be able to navigate to different pages in Github 
 
 ### How to get motivated to start a project, what should it be, how to stick with it
  - Build something you're familiar with and work on it
