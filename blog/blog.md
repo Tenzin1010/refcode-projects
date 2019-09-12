@@ -7,18 +7,7 @@
 
  For each assigment write a short post about it. visavis at the end it will compile to a large blog post as the goal. 
 
- ####Week 1 assignment 
-
- Read these articles
-There is a mindset to professional programming that different than other professions. Self-motivation is strongly valued, and there is very important to show your work.
-
-Why you should start a side project and how [Medium]
-Why side projects are so damn important [FreeCodeCamp]
-How to think like a programmer [FreeCodeCamp]
-Watch these videos
-Top 5 Web Design Trends in 2019
-How to Think Like a Programmer
-Don’t be disheartened if a lot of things don’t make sense to you. Remember, we were all in the same shoes as you one time, so you know one day you’ll understand this too.
+ #### Week 1 assignment 
 
 Write up your thoughts on the reading
 Create a new page on your project page’s blog section.
@@ -28,8 +17,14 @@ What didn’t you like?
 Did anything seem surprising?
 
 
+Week 2 -- in-class 
+- Compiled Markdown exercise to HTML
+- Create multiple Github pages and how to link to each other (using relative path ./blog)
+
 ### How to get motivated to start a project, what should it be, how to stick with it
  - Build something you're familiar with and work on it
  - Build something & do it over with other frame work, library, ex, Javascript, JQ, React, Node & React
  - create short exercises on codepen 
  - participate in gamification
+ 
+ ### Week 2 Assignments
