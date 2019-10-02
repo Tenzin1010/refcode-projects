@@ -29,3 +29,14 @@ Week 2 -- in-class
  - participate in gamification
  
  ### Week 2 Assignments
+ 
+ ### Week 3 & 4 Missed class
+ - Topics includes 
+ 1. SaSS
+ 2. Jekyll
+ 
+ ### Week 5 
+ 
+ Week 5 in Class.
+ 1. 
+ 
